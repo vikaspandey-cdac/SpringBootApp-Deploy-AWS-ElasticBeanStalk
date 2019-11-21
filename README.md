@@ -7,11 +7,6 @@ Spring Boot is the No 1 Java Framework to develop REST API and Microservices. AW
 How about learning AWS by deploying Spring Applications to Cloud using Elastic Beanstalk?
 
 ## Getting Started
-- [Video - Docker in 5 Steps](https://youtu.be/Rt5G5Gj7RP0)
-- [Video - Spring in Steps](https://www.youtube.com/watch?v=edgZo2g-LTM)
-- [Video - Spring Boot in Steps](https://www.youtube.com/watch?v=pcdpk3Yd1EA)
-- [Video - JPA/Hibernate in Steps](https://www.youtube.com/watch?v=MaI0_XdpdP8)
-- [Video - React in Steps](https://www.youtube.com/watch?v=SWXuXhZkNQc&t=110s)
 - [Article - Getting started with React and Spring Boot - Full Stack](https://www.springboottutorial.com/spring-boot-react-full-stack-crud-maven-application)
 - [Article - Using Spring Security and JWT with React and Spring Boot](https://www.springboottutorial.com/spring-boot-react-full-stack-with-spring-security-basic-and-jwt-authentication)
 
@@ -165,14 +160,6 @@ You will be using deploying a variety of projects to Amazon Web Services (AWS). 
 - Step 03 - Configuring AWS CodeBuild and AWS CodePipeline
 - Step 04 - Creating AWS CodeBuild Build Specification 
 - Step 05 -  Testing Continuous Deployment with AWS CodePipeline
-
-### Email headings
-  - ⚡⚡⚡ [NEW COURSE] Deploy Spring Boot to Cloud - Amazon Web Services
-  - Is it Your Time... (to start with aws)
-  - By Far, The Easiest Way? ... (to learn cloud)
-  - #1 Skill For Years to Come
-  - Do You have the #1 Skill for a Java Developer?
-  - Do You want to be Future Proof?
 
 ### Email Template
 
